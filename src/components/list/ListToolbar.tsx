@@ -1,4 +1,4 @@
-import { memo, type FC } from 'react';
+import { type FC, memo } from 'react';
 import type { ListToolbarProps as RAListToolbarProps } from 'react-admin';
 
 export type ListToolbarProps = RAListToolbarProps;

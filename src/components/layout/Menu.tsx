@@ -1,4 +1,8 @@
-import { type ResourceProps, useResourceDefinitions, useCreatePath } from 'ra-core';
+import {
+  type ResourceProps,
+  useCreatePath,
+  useResourceDefinitions,
+} from 'ra-core';
 import type React from 'react';
 
 interface MenuProps {

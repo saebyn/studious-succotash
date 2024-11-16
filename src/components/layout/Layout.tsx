@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import type { LayoutProps } from 'react-admin';
 
-import Sidebar from './Sidebar.tsx';
 import Menu from './Menu.tsx';
+import Sidebar from './Sidebar.tsx';
 
 const Layout = ({ children, title, dashboard }: LayoutProps) => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);

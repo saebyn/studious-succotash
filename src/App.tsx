@@ -3,9 +3,9 @@ import dataProvider from './dataProvider.ts';
 import i18nProvider from './i18nProvider.ts';
 
 import Admin from './components/Admin.tsx';
-import ListGuesser from './components/list/ListGuesser.tsx';
 import EditGuesser from './components/detail/EditGuesser.tsx';
 import ShowGuesser from './components/detail/ShowGuesser.tsx';
+import ListGuesser from './components/list/ListGuesser.tsx';
 
 const App = () => (
   <Admin
