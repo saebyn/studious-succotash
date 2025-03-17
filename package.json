@@ -45,7 +45,7 @@
     "tailwindcss": "^4",
     "typescript": "^5",
     "vite": "^6.2.2",
-    "vitest": "^3.0.8",
+    "vitest": "^3.0.9",
     "vitest-browser-react": "^0.1.1"
   }
 }
