@@ -35,7 +35,7 @@
     "@storybook/test": "^8",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "@vitejs/plugin-react": "^4.3.4",
+    "@vitejs/plugin-react": "^4.4.1",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
     "ra-data-json-server": "^5",
@@ -44,8 +44,8 @@
     "storybook": "^8",
     "tailwindcss": "^4",
     "typescript": "^5",
-    "vite": "^6.2.2",
-    "vitest": "^3.0.8",
+    "vite": "^6.3.2",
+    "vitest": "^3.1.2",
     "vitest-browser-react": "^0.1.1"
   }
 }
